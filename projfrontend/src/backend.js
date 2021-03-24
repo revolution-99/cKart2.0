@@ -1,0 +1,2 @@
+// This is the file where I have mentioned the exact path  to access the .env file. So that I don't have to mention "process.env.REACT_APP_BACKEND" always. Instead I can mention "API"
+export const API = process.env.REACT_APP_BACKEND
